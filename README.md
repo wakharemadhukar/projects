@@ -1,1 +1,1 @@
-# projects
+# MNIST CLassification Fashion
